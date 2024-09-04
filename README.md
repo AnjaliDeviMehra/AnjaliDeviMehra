@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I’m a passionate Full-Stack Developer transition
 
 ## 🛠️ Technologies & Tools
 
-Languages: HTML, CSS, JavaScript, Node.js  
-Frameworks: React, Express  
-Databases: MySQL, Knex  
-Tools: GitHub, Agile Development, Heroku  
-Others: Document Object Model (DOM), Web APIs, User Authentication, OAuth  
+**Languages**: HTML, CSS, JavaScript, Node.js  
+**Frameworks**: React, Express  
+**Databases**: MySQL, Knex  
+**Tools**: GitHub, Agile Development, Heroku  
+**Others**: Document Object Model (DOM), Web APIs, User Authentication, OAuth  
 <br/>  
 
 ## 🌟 Featured Projects
